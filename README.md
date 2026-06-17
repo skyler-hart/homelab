@@ -138,6 +138,18 @@ The current environment is built around these core design patterns:
 
 - [Network Overview Diagram](diagrams/network-overview.drawio)
 
+## Contact
+
+Recommendations and general comments are welcome via GitHub Issues.
+
+- Open an issue for feedback, suggestions, and non-security discussions
+- Report vulnerabilities using GitHub Private Vulnerability Reporting
+- Do not post sensitive security details in public issues
+
+## Contributions
+
+This is a private homelab repository and external contributions are not accepted.
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
