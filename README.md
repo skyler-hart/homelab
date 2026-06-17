@@ -145,3 +145,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Notes
 
 - Some sections describe target-state architecture in addition to current-state implementation details
+- Secrets policy: credentials, API keys, tokens, certificates, and sensitive configuration values must be stored in the DevOps Vault in 1Password (not in this repository)

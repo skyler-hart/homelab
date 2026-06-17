@@ -79,6 +79,7 @@ docker image prune -f
 - [ ] Review release notes for breaking changes
 - [ ] Notify users of planned maintenance window if applicable
 - [ ] Confirm monitoring is active before and after patch
+- [ ] Verify any required credentials, API keys, tokens, and certificates are available in 1Password DevOps Vault
 
 ## Post-Patch Checklist
 
@@ -86,6 +87,7 @@ docker image prune -f
 - [ ] Confirm DNS, Traefik routing, and Authentik SSO are functional
 - [ ] Check logs for errors following service restarts
 - [ ] Update patch log with date, components patched, and any issues
+- [ ] Rotate or update secrets in 1Password DevOps Vault if changed during maintenance
 
 ---
 
