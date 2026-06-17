@@ -42,3 +42,95 @@ terraform.rc
 # Optional: ignore plan files saved before destroying Terraform configuration
 # Uncomment the line below if you want to ignore planout files.
 # planout
+
+# --------------------------------------
+# OS-generated files (macOS / Windows)
+# --------------------------------------
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --------------------------------------
+# Editor / IDE files
+# --------------------------------------
+
+.idea/
+*.iml
+
+.vscode/
+!.vscode/extensions.json
+
+*.swp
+*.swo
+*~
+
+# --------------------------------------
+# Logs and runtime artifacts
+# --------------------------------------
+
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --------------------------------------
+# Environment and local-only config
+# --------------------------------------
+
+.env
+.env.*
+*.local
+
+# --------------------------------------
+# Archives and temporary files
+# --------------------------------------
+
+*.tmp
+*.temp
+*.bak
+*.orig
+
+*.7z
+*.gz
+*.zip
+*.tar
+*.tgz
+*.bz2
+*.rar
+
+# --------------------------------------
+# Language / tool common outputs
+# --------------------------------------
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Node.js
+node_modules/
+dist/
+build/
+coverage/
+
+# Generic caches
+.cache/
+tmp/
+temp/
