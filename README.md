@@ -138,6 +138,10 @@ The current environment is built around these core design patterns:
 
 - [Network Overview Diagram](diagrams/network-overview.drawio)
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 ## Notes
 
 - Some sections describe target-state architecture in addition to current-state implementation details
