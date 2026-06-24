@@ -141,12 +141,13 @@ When evaluating technology, Jordan prioritizes:
 
 - Male
 - Early 40s
-- Short brown hair
+- Short brown hair (buzzcut)
 - Blue eyes
 - Athletic-to-stocky build
 - Professional but practical wardrobe
 - Usually collared shirt or polo
 - Confident but approachable demeanor
+- Germanic descent
 
 ---
 

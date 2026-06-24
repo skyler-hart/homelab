@@ -128,7 +128,7 @@ She is known for bridging the gap between cybersecurity, infrastructure, cloud, 
 - Age 35
 - Argentinian heritage
 - Long dark brown hair
-- Brown eyes
+- Hazel eyes
 - Olive skin tone
 - Athletic build
 - Approximately 5'7"
