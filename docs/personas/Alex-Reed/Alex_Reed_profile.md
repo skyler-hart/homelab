@@ -61,14 +61,45 @@ Now based in the DC metro area, Alex is transitioning her military IT experience
 - Light natural makeup
 - Professional appearance
 - Friendly, approachable demeanor
-- Typically dressed in business casual — fitted blazer, blouse, or collared shirt
+- For work she is typically dressed in business casual — fitted blazer, blouse, or collared shirt
 - No visible tattoos or piercings beyond small stud earrings
+
+## Weekend Modeling (Professional)
+
+Alex also does professional modeling on weekends and as side work. Her portfolio style is clean, editorial, and commercial, with an emphasis on confident, approachable presentation.
+
+### Modeling Focus
+
+- Lifestyle and commercial branding
+- Editorial portrait work
+- Swimwear portfolio images (tasteful, professional)
+
+### Swimwear Styling Notes
+
+- One-piece and athletic two-piece swimwear in solid colors
+- Minimal accessories (small earrings, simple bracelet)
+- Natural makeup and neat, camera-ready hair
+- Confident posture and relaxed expressions
+- Professional beach, poolside, or studio-backdrop settings
+- Avoid suggestive posing; prioritize catalog/editorial standards
+
+### Photo Direction Keywords
+
+- Professional fashion photography
+- Editorial lighting
+- Natural daylight or soft studio light
+- High-resolution portfolio composition
+- Clean background and balanced framing
+- Commercial swimwear campaign style
 
 ## Canonical Images
 
-- linkedin-headshot.png
-- full-body.png
+- Alex-Reed-Headshot.png
+- Alex-Reed-Headshot2.png
+- Alex-Reed-Full-Length.png
+- Alex-Reed-Example.png
+- Alex-Reed-Example2.png
 
 ## Usage
 
-Fictional persona used for Intune demonstrations, Entra ID screenshots, documentation, training materials, and UI testing.
+Fictional persona used for Intune demonstrations, Entra ID screenshots, documentation, training materials, UI testing, and professional modeling mockups.

@@ -153,3 +153,25 @@ Structure:
 - Decision needed and next steps
 
 Use clear, non-technical language.
+
+---
+
+## Professional Modeling Image Prompts (Work-Safe)
+
+Use these examples when generating professional, non-suggestive portfolio mockups of Alex Reed.
+
+### Example 1 - Full Scene Editorial
+
+Alex Reed, fictional adult female model, age 22, Nordic features, fair skin, blue-gray eyes, shoulder-length blonde hair, high cheekbones, straight nose, slender athletic build, approximately 5'6", natural makeup, friendly approachable expression. Alex Reed, fictional adult model, walking along a California beach at golden hour. White athletic two-piece swimwear, natural smile, commercial swimwear campaign style, professional fashion photography, realistic skin texture, editorial composition, ocean backdrop, wind in hair, premium magazine quality, non-sexual, non-suggestive, work-safe.
+
+### Example 2 - Waist-Up Editorial Portrait
+
+Alex Reed, fictional adult female model, age 22, Nordic features, fair skin, blue-gray eyes, shoulder-length blonde hair, high cheekbones, straight nose, slender athletic build, natural makeup, friendly approachable expression. Waist-up editorial portrait on a California beach at golden hour. White athletic swimwear top, modest commercial styling, natural smile, relaxed posture, ocean backdrop, soft waves, warm sunset light, wind-blown hair, realistic skin texture, professional fashion photography, premium magazine aesthetic, shallow depth of field, cinematic composition, high detail, natural colors, commercial swimwear campaign, non-sexual, non-suggestive, work-safe.
+
+### Example 3 - Low-Key Editorial (Full Scene)
+
+Alex Reed, fictional adult female model, age 22, Nordic features, fair skin, blue-gray eyes, shoulder-length blonde hair, high cheekbones, straight nose, slender athletic build, approximately 5'6", natural makeup, friendly approachable expression. Full-scene editorial portrait in a professional photo studio with a dark seamless backdrop. Modest commercial styling, confident natural posture, low-key studio lighting with controlled shadows, soft rim light on hair, subdued highlights, realistic skin texture, cinematic composition, premium magazine quality, non-sexual, non-suggestive, work-safe.
+
+### Example 4 - Low-Key Editorial (Waist-Up)
+
+Alex Reed, fictional adult female model, age 22, Nordic features, fair skin, blue-gray eyes, shoulder-length blonde hair, high cheekbones, straight nose, slender athletic build, natural makeup, friendly approachable expression. Waist-up editorial portrait in a professional studio with a dark neutral backdrop. white top, modest commercial styling, relaxed expression, low-key studio lighting with deep but clean shadows, gentle key light on face, subtle negative fill, high detail, natural colors, shallow depth of field, professional fashion photography, non-sexual, non-suggestive, work-safe.
